@@ -32,7 +32,7 @@
         "url": "https://github.com/actions-rs/toolchain/issues"
     },
     "dependencies": {
-        "@actions-rs/core": "^0.1.6",
+        "@actions-rs/core": "lionel1704/core",
         "@actions/core": "^1.2.6",
         "@actions/exec": "^1.0.4",
         "@actions/io": "^1.0.2"
